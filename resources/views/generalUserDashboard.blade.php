@@ -10,7 +10,7 @@
             <div class="bg-white dark:bg-gray-800 overflow-hidden shadow-sm sm:rounded-lg">
                 <div class="p-6 text-gray-900 dark:text-gray-100">
                     {{ __("You're logged in!") }}
-                    <h1>This is General User dashboard!</h1>
+                    <h1>This is General User dashboardddddddd!</h1>
                 </div>
             </div>
         </div>
